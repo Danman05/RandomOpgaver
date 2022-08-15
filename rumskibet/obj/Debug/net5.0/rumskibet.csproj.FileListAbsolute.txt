@@ -1,0 +1,16 @@
+C:\Users\zbcdasp\source\repos\rumskibet\bin\Debug\net5.0\rumskibet.exe
+C:\Users\zbcdasp\source\repos\rumskibet\bin\Debug\net5.0\rumskibet.deps.json
+C:\Users\zbcdasp\source\repos\rumskibet\bin\Debug\net5.0\rumskibet.runtimeconfig.json
+C:\Users\zbcdasp\source\repos\rumskibet\bin\Debug\net5.0\rumskibet.runtimeconfig.dev.json
+C:\Users\zbcdasp\source\repos\rumskibet\bin\Debug\net5.0\rumskibet.dll
+C:\Users\zbcdasp\source\repos\rumskibet\bin\Debug\net5.0\ref\rumskibet.dll
+C:\Users\zbcdasp\source\repos\rumskibet\bin\Debug\net5.0\rumskibet.pdb
+C:\Users\zbcdasp\source\repos\rumskibet\obj\Debug\net5.0\rumskibet.csproj.AssemblyReference.cache
+C:\Users\zbcdasp\source\repos\rumskibet\obj\Debug\net5.0\rumskibet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcdasp\source\repos\rumskibet\obj\Debug\net5.0\rumskibet.AssemblyInfoInputs.cache
+C:\Users\zbcdasp\source\repos\rumskibet\obj\Debug\net5.0\rumskibet.AssemblyInfo.cs
+C:\Users\zbcdasp\source\repos\rumskibet\obj\Debug\net5.0\rumskibet.csproj.CoreCompileInputs.cache
+C:\Users\zbcdasp\source\repos\rumskibet\obj\Debug\net5.0\rumskibet.dll
+C:\Users\zbcdasp\source\repos\rumskibet\obj\Debug\net5.0\ref\rumskibet.dll
+C:\Users\zbcdasp\source\repos\rumskibet\obj\Debug\net5.0\rumskibet.pdb
+C:\Users\zbcdasp\source\repos\rumskibet\obj\Debug\net5.0\rumskibet.genruntimeconfig.cache
