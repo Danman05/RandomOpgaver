@@ -1,0 +1,16 @@
+C:\Users\zbcdasp\source\repos\Friday13th\bin\Debug\net5.0\Friday13th.exe
+C:\Users\zbcdasp\source\repos\Friday13th\bin\Debug\net5.0\Friday13th.deps.json
+C:\Users\zbcdasp\source\repos\Friday13th\bin\Debug\net5.0\Friday13th.runtimeconfig.json
+C:\Users\zbcdasp\source\repos\Friday13th\bin\Debug\net5.0\Friday13th.runtimeconfig.dev.json
+C:\Users\zbcdasp\source\repos\Friday13th\bin\Debug\net5.0\Friday13th.dll
+C:\Users\zbcdasp\source\repos\Friday13th\bin\Debug\net5.0\ref\Friday13th.dll
+C:\Users\zbcdasp\source\repos\Friday13th\bin\Debug\net5.0\Friday13th.pdb
+C:\Users\zbcdasp\source\repos\Friday13th\obj\Debug\net5.0\Friday13th.csproj.AssemblyReference.cache
+C:\Users\zbcdasp\source\repos\Friday13th\obj\Debug\net5.0\Friday13th.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcdasp\source\repos\Friday13th\obj\Debug\net5.0\Friday13th.AssemblyInfoInputs.cache
+C:\Users\zbcdasp\source\repos\Friday13th\obj\Debug\net5.0\Friday13th.AssemblyInfo.cs
+C:\Users\zbcdasp\source\repos\Friday13th\obj\Debug\net5.0\Friday13th.csproj.CoreCompileInputs.cache
+C:\Users\zbcdasp\source\repos\Friday13th\obj\Debug\net5.0\Friday13th.dll
+C:\Users\zbcdasp\source\repos\Friday13th\obj\Debug\net5.0\ref\Friday13th.dll
+C:\Users\zbcdasp\source\repos\Friday13th\obj\Debug\net5.0\Friday13th.pdb
+C:\Users\zbcdasp\source\repos\Friday13th\obj\Debug\net5.0\Friday13th.genruntimeconfig.cache
