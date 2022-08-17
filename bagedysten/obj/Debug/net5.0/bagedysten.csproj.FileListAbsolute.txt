@@ -1,0 +1,16 @@
+C:\Users\zbcdasp\source\repos\bagedysten\bin\Debug\net5.0\bagedysten.exe
+C:\Users\zbcdasp\source\repos\bagedysten\bin\Debug\net5.0\bagedysten.deps.json
+C:\Users\zbcdasp\source\repos\bagedysten\bin\Debug\net5.0\bagedysten.runtimeconfig.json
+C:\Users\zbcdasp\source\repos\bagedysten\bin\Debug\net5.0\bagedysten.runtimeconfig.dev.json
+C:\Users\zbcdasp\source\repos\bagedysten\bin\Debug\net5.0\bagedysten.dll
+C:\Users\zbcdasp\source\repos\bagedysten\bin\Debug\net5.0\ref\bagedysten.dll
+C:\Users\zbcdasp\source\repos\bagedysten\bin\Debug\net5.0\bagedysten.pdb
+C:\Users\zbcdasp\source\repos\bagedysten\obj\Debug\net5.0\bagedysten.csproj.AssemblyReference.cache
+C:\Users\zbcdasp\source\repos\bagedysten\obj\Debug\net5.0\bagedysten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcdasp\source\repos\bagedysten\obj\Debug\net5.0\bagedysten.AssemblyInfoInputs.cache
+C:\Users\zbcdasp\source\repos\bagedysten\obj\Debug\net5.0\bagedysten.AssemblyInfo.cs
+C:\Users\zbcdasp\source\repos\bagedysten\obj\Debug\net5.0\bagedysten.csproj.CoreCompileInputs.cache
+C:\Users\zbcdasp\source\repos\bagedysten\obj\Debug\net5.0\bagedysten.dll
+C:\Users\zbcdasp\source\repos\bagedysten\obj\Debug\net5.0\ref\bagedysten.dll
+C:\Users\zbcdasp\source\repos\bagedysten\obj\Debug\net5.0\bagedysten.pdb
+C:\Users\zbcdasp\source\repos\bagedysten\obj\Debug\net5.0\bagedysten.genruntimeconfig.cache
