@@ -1,0 +1,16 @@
+C:\Users\zbcdasp\source\repos\sokkeskuffen\bin\Debug\net5.0\sokkeskuffen.exe
+C:\Users\zbcdasp\source\repos\sokkeskuffen\bin\Debug\net5.0\sokkeskuffen.deps.json
+C:\Users\zbcdasp\source\repos\sokkeskuffen\bin\Debug\net5.0\sokkeskuffen.runtimeconfig.json
+C:\Users\zbcdasp\source\repos\sokkeskuffen\bin\Debug\net5.0\sokkeskuffen.runtimeconfig.dev.json
+C:\Users\zbcdasp\source\repos\sokkeskuffen\bin\Debug\net5.0\sokkeskuffen.dll
+C:\Users\zbcdasp\source\repos\sokkeskuffen\bin\Debug\net5.0\ref\sokkeskuffen.dll
+C:\Users\zbcdasp\source\repos\sokkeskuffen\bin\Debug\net5.0\sokkeskuffen.pdb
+C:\Users\zbcdasp\source\repos\sokkeskuffen\obj\Debug\net5.0\sokkeskuffen.csproj.AssemblyReference.cache
+C:\Users\zbcdasp\source\repos\sokkeskuffen\obj\Debug\net5.0\sokkeskuffen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcdasp\source\repos\sokkeskuffen\obj\Debug\net5.0\sokkeskuffen.AssemblyInfoInputs.cache
+C:\Users\zbcdasp\source\repos\sokkeskuffen\obj\Debug\net5.0\sokkeskuffen.AssemblyInfo.cs
+C:\Users\zbcdasp\source\repos\sokkeskuffen\obj\Debug\net5.0\sokkeskuffen.csproj.CoreCompileInputs.cache
+C:\Users\zbcdasp\source\repos\sokkeskuffen\obj\Debug\net5.0\sokkeskuffen.dll
+C:\Users\zbcdasp\source\repos\sokkeskuffen\obj\Debug\net5.0\ref\sokkeskuffen.dll
+C:\Users\zbcdasp\source\repos\sokkeskuffen\obj\Debug\net5.0\sokkeskuffen.pdb
+C:\Users\zbcdasp\source\repos\sokkeskuffen\obj\Debug\net5.0\sokkeskuffen.genruntimeconfig.cache
