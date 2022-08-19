@@ -1,0 +1,16 @@
+C:\Users\zbcdasp\source\repos\Mikkel ræv\bin\Debug\net5.0\Mikkel ræv.exe
+C:\Users\zbcdasp\source\repos\Mikkel ræv\bin\Debug\net5.0\Mikkel ræv.deps.json
+C:\Users\zbcdasp\source\repos\Mikkel ræv\bin\Debug\net5.0\Mikkel ræv.runtimeconfig.json
+C:\Users\zbcdasp\source\repos\Mikkel ræv\bin\Debug\net5.0\Mikkel ræv.runtimeconfig.dev.json
+C:\Users\zbcdasp\source\repos\Mikkel ræv\bin\Debug\net5.0\Mikkel ræv.dll
+C:\Users\zbcdasp\source\repos\Mikkel ræv\bin\Debug\net5.0\Mikkel ræv.pdb
+C:\Users\zbcdasp\source\repos\Mikkel ræv\obj\Debug\net5.0\Mikkel ræv.csproj.AssemblyReference.cache
+C:\Users\zbcdasp\source\repos\Mikkel ræv\obj\Debug\net5.0\Mikkel ræv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcdasp\source\repos\Mikkel ræv\obj\Debug\net5.0\Mikkel ræv.AssemblyInfoInputs.cache
+C:\Users\zbcdasp\source\repos\Mikkel ræv\obj\Debug\net5.0\Mikkel ræv.AssemblyInfo.cs
+C:\Users\zbcdasp\source\repos\Mikkel ræv\obj\Debug\net5.0\Mikkel ræv.csproj.CoreCompileInputs.cache
+C:\Users\zbcdasp\source\repos\Mikkel ræv\obj\Debug\net5.0\Mikkel ræv.dll
+C:\Users\zbcdasp\source\repos\Mikkel ræv\obj\Debug\net5.0\refint\Mikkel ræv.dll
+C:\Users\zbcdasp\source\repos\Mikkel ræv\obj\Debug\net5.0\Mikkel ræv.pdb
+C:\Users\zbcdasp\source\repos\Mikkel ræv\obj\Debug\net5.0\Mikkel ræv.genruntimeconfig.cache
+C:\Users\zbcdasp\source\repos\Mikkel ræv\obj\Debug\net5.0\ref\Mikkel ræv.dll
