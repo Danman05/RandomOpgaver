@@ -1,0 +1,16 @@
+C:\Users\zbcdasp\source\repos\stensakspapir\bin\Debug\net5.0\stensakspapir.exe
+C:\Users\zbcdasp\source\repos\stensakspapir\bin\Debug\net5.0\stensakspapir.deps.json
+C:\Users\zbcdasp\source\repos\stensakspapir\bin\Debug\net5.0\stensakspapir.runtimeconfig.json
+C:\Users\zbcdasp\source\repos\stensakspapir\bin\Debug\net5.0\stensakspapir.runtimeconfig.dev.json
+C:\Users\zbcdasp\source\repos\stensakspapir\bin\Debug\net5.0\stensakspapir.dll
+C:\Users\zbcdasp\source\repos\stensakspapir\bin\Debug\net5.0\ref\stensakspapir.dll
+C:\Users\zbcdasp\source\repos\stensakspapir\bin\Debug\net5.0\stensakspapir.pdb
+C:\Users\zbcdasp\source\repos\stensakspapir\obj\Debug\net5.0\stensakspapir.csproj.AssemblyReference.cache
+C:\Users\zbcdasp\source\repos\stensakspapir\obj\Debug\net5.0\stensakspapir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcdasp\source\repos\stensakspapir\obj\Debug\net5.0\stensakspapir.AssemblyInfoInputs.cache
+C:\Users\zbcdasp\source\repos\stensakspapir\obj\Debug\net5.0\stensakspapir.AssemblyInfo.cs
+C:\Users\zbcdasp\source\repos\stensakspapir\obj\Debug\net5.0\stensakspapir.csproj.CoreCompileInputs.cache
+C:\Users\zbcdasp\source\repos\stensakspapir\obj\Debug\net5.0\stensakspapir.dll
+C:\Users\zbcdasp\source\repos\stensakspapir\obj\Debug\net5.0\ref\stensakspapir.dll
+C:\Users\zbcdasp\source\repos\stensakspapir\obj\Debug\net5.0\stensakspapir.pdb
+C:\Users\zbcdasp\source\repos\stensakspapir\obj\Debug\net5.0\stensakspapir.genruntimeconfig.cache
