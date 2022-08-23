@@ -4,6 +4,7 @@ namespace Storebæltsforbindelsen
 {
     class Program
     {
+        // GUI
         static void Main(string[] args)
         {
             Console.WriteLine("Hvor mange motorcykler er der på broen: ");
