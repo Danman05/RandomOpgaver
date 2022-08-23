@@ -1,0 +1,16 @@
+C:\Users\zbcdasp\source\repos\Storebæltsforbindelsen\bin\Debug\net5.0\Storebæltsforbindelsen.exe
+C:\Users\zbcdasp\source\repos\Storebæltsforbindelsen\bin\Debug\net5.0\Storebæltsforbindelsen.deps.json
+C:\Users\zbcdasp\source\repos\Storebæltsforbindelsen\bin\Debug\net5.0\Storebæltsforbindelsen.runtimeconfig.json
+C:\Users\zbcdasp\source\repos\Storebæltsforbindelsen\bin\Debug\net5.0\Storebæltsforbindelsen.runtimeconfig.dev.json
+C:\Users\zbcdasp\source\repos\Storebæltsforbindelsen\bin\Debug\net5.0\Storebæltsforbindelsen.dll
+C:\Users\zbcdasp\source\repos\Storebæltsforbindelsen\bin\Debug\net5.0\ref\Storebæltsforbindelsen.dll
+C:\Users\zbcdasp\source\repos\Storebæltsforbindelsen\bin\Debug\net5.0\Storebæltsforbindelsen.pdb
+C:\Users\zbcdasp\source\repos\Storebæltsforbindelsen\obj\Debug\net5.0\Storebæltsforbindelsen.csproj.AssemblyReference.cache
+C:\Users\zbcdasp\source\repos\Storebæltsforbindelsen\obj\Debug\net5.0\Storebæltsforbindelsen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcdasp\source\repos\Storebæltsforbindelsen\obj\Debug\net5.0\Storebæltsforbindelsen.AssemblyInfoInputs.cache
+C:\Users\zbcdasp\source\repos\Storebæltsforbindelsen\obj\Debug\net5.0\Storebæltsforbindelsen.AssemblyInfo.cs
+C:\Users\zbcdasp\source\repos\Storebæltsforbindelsen\obj\Debug\net5.0\Storebæltsforbindelsen.csproj.CoreCompileInputs.cache
+C:\Users\zbcdasp\source\repos\Storebæltsforbindelsen\obj\Debug\net5.0\Storebæltsforbindelsen.dll
+C:\Users\zbcdasp\source\repos\Storebæltsforbindelsen\obj\Debug\net5.0\ref\Storebæltsforbindelsen.dll
+C:\Users\zbcdasp\source\repos\Storebæltsforbindelsen\obj\Debug\net5.0\Storebæltsforbindelsen.pdb
+C:\Users\zbcdasp\source\repos\Storebæltsforbindelsen\obj\Debug\net5.0\Storebæltsforbindelsen.genruntimeconfig.cache
