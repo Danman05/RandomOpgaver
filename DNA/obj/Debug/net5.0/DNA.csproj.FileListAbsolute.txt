@@ -1,0 +1,16 @@
+C:\Users\zbcdasp\source\repos\DNA\bin\Debug\net5.0\DNA.exe
+C:\Users\zbcdasp\source\repos\DNA\bin\Debug\net5.0\DNA.deps.json
+C:\Users\zbcdasp\source\repos\DNA\bin\Debug\net5.0\DNA.runtimeconfig.json
+C:\Users\zbcdasp\source\repos\DNA\bin\Debug\net5.0\DNA.runtimeconfig.dev.json
+C:\Users\zbcdasp\source\repos\DNA\bin\Debug\net5.0\DNA.dll
+C:\Users\zbcdasp\source\repos\DNA\bin\Debug\net5.0\ref\DNA.dll
+C:\Users\zbcdasp\source\repos\DNA\bin\Debug\net5.0\DNA.pdb
+C:\Users\zbcdasp\source\repos\DNA\obj\Debug\net5.0\DNA.csproj.AssemblyReference.cache
+C:\Users\zbcdasp\source\repos\DNA\obj\Debug\net5.0\DNA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcdasp\source\repos\DNA\obj\Debug\net5.0\DNA.AssemblyInfoInputs.cache
+C:\Users\zbcdasp\source\repos\DNA\obj\Debug\net5.0\DNA.AssemblyInfo.cs
+C:\Users\zbcdasp\source\repos\DNA\obj\Debug\net5.0\DNA.csproj.CoreCompileInputs.cache
+C:\Users\zbcdasp\source\repos\DNA\obj\Debug\net5.0\DNA.dll
+C:\Users\zbcdasp\source\repos\DNA\obj\Debug\net5.0\ref\DNA.dll
+C:\Users\zbcdasp\source\repos\DNA\obj\Debug\net5.0\DNA.pdb
+C:\Users\zbcdasp\source\repos\DNA\obj\Debug\net5.0\DNA.genruntimeconfig.cache
