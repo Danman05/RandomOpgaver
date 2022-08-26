@@ -1,0 +1,16 @@
+C:\Users\zbcdasp\source\repos\Sparegrisen\bin\Debug\net5.0\Sparegrisen.exe
+C:\Users\zbcdasp\source\repos\Sparegrisen\bin\Debug\net5.0\Sparegrisen.deps.json
+C:\Users\zbcdasp\source\repos\Sparegrisen\bin\Debug\net5.0\Sparegrisen.runtimeconfig.json
+C:\Users\zbcdasp\source\repos\Sparegrisen\bin\Debug\net5.0\Sparegrisen.runtimeconfig.dev.json
+C:\Users\zbcdasp\source\repos\Sparegrisen\bin\Debug\net5.0\Sparegrisen.dll
+C:\Users\zbcdasp\source\repos\Sparegrisen\bin\Debug\net5.0\ref\Sparegrisen.dll
+C:\Users\zbcdasp\source\repos\Sparegrisen\bin\Debug\net5.0\Sparegrisen.pdb
+C:\Users\zbcdasp\source\repos\Sparegrisen\obj\Debug\net5.0\Sparegrisen.csproj.AssemblyReference.cache
+C:\Users\zbcdasp\source\repos\Sparegrisen\obj\Debug\net5.0\Sparegrisen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbcdasp\source\repos\Sparegrisen\obj\Debug\net5.0\Sparegrisen.AssemblyInfoInputs.cache
+C:\Users\zbcdasp\source\repos\Sparegrisen\obj\Debug\net5.0\Sparegrisen.AssemblyInfo.cs
+C:\Users\zbcdasp\source\repos\Sparegrisen\obj\Debug\net5.0\Sparegrisen.csproj.CoreCompileInputs.cache
+C:\Users\zbcdasp\source\repos\Sparegrisen\obj\Debug\net5.0\Sparegrisen.dll
+C:\Users\zbcdasp\source\repos\Sparegrisen\obj\Debug\net5.0\ref\Sparegrisen.dll
+C:\Users\zbcdasp\source\repos\Sparegrisen\obj\Debug\net5.0\Sparegrisen.pdb
+C:\Users\zbcdasp\source\repos\Sparegrisen\obj\Debug\net5.0\Sparegrisen.genruntimeconfig.cache
